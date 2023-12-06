@@ -3,7 +3,9 @@ Advance Computer Programming Final Project
 
 Game Title: Apple in the Basket
 
-Description
+Description:
+"Apple in the Basket" is a bright and entertaining friendly game for kids that combines eye coordination and skills. Players strive to grab as many apples as possible in the scenic orchards beneath the apple tree, giving a fun-filled challenge that kids will appreciate.
+
 
 Instruction
 
