@@ -157,7 +157,7 @@ def main_game():
 
     game_over = False
     while running and not game_over:
-        dt = clock.tick(FPS) / 1000.0  s
+        dt = clock.tick(FPS) / 1000.0  
 
         time_since_last_eat += dt
         if time_since_last_eat >= 2:  
