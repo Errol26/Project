@@ -64,8 +64,6 @@ def show_another_tab(hunger_level):
 
         # Draw button with fruit color
         pygame.draw.rect(WIN, (255, 0, 0), apple_button_rect)  # Red color for apple
-
-        # Display code label as text on button with different fonts
         apple_label = pygame.font.SysFont("Bauhaus 93", 18).render(apple_code_label, 1, (255, 255, 255))
         WIN.blit(apple_label, (apple_button_rect.centerx - apple_label.get_width() // 2, apple_button_rect.centery - apple_label.get_height() // 2))
 
@@ -111,7 +109,7 @@ class Fruit(pygame.sprite.Sprite):
         self.speed = random.randint(5, 10)
 
     def update(self):
-        global apples_caught, hunger_level  # Use the global variables
+        global apples_caught, hunger_level  
 
         self.rect.y += self.speed
         if self.rect.y > HEIGHT:
@@ -127,7 +125,7 @@ class Fruit(pygame.sprite.Sprite):
 
 def main_game():
     global running, all_sprites, fruits, basket, apples_caught, apples_display_surface, apples_display_rect, hunger_level
-    running = True  # Declare running as a global variable
+    running = True 
 
     # Create sprite groups
     all_sprites = pygame.sprite.Group()
@@ -148,7 +146,7 @@ def main_game():
     # Create Eat button
     eat_button_rect = pygame.Rect(WIDTH - 110, HEIGHT - 60, 100, 40)
 
-    # Game loop
+   
     clock = pygame.time.Clock()
 
     apples_display_surface = pygame.Surface((230, 50))  # Define and initialize apples_display_surface
@@ -159,14 +157,14 @@ def main_game():
 
     game_over = False
     while running and not game_over:
-        dt = clock.tick(FPS) / 1000.0  # Convert milliseconds to seconds
+        dt = clock.tick(FPS) / 1000.0  s
 
         time_since_last_eat += dt
-        if time_since_last_eat >= 2:  # Adjust the time interval 
+        if time_since_last_eat >= 2:  
             hunger_level -= 5  # Decrease hunger over time
             if hunger_level < 0:
                 hunger_level = 0  # Cap the hunger level at 0
-                game_over = True  # Set game_over to True when hunger is zero
+                game_over = True  
             time_since_last_eat = 0
 
         for event in pygame.event.get():
@@ -182,10 +180,10 @@ def main_game():
                             fruit = Fruit(random.choice(list(FRUIT_COLORS.keys())))
                             all_sprites.add(fruit)
                             fruits.add(fruit)
-                        input_text = ""  # Reset the input text after capturing the value
+                        input_text = ""  
                     except ValueError:
                         print("Please enter a valid number.")
-                        input_text = ""  # Reset the input text even if an error occurs
+                        input_text = ""  
                 elif event.key == pygame.K_BACKSPACE:
                     input_text = input_text[:-1]
                 elif event.unicode.isnumeric():
@@ -249,11 +247,13 @@ def main_game():
 
     show_game_over_screen()
 
+#For reseting the game after game over
 def reset_game():
     global hunger_level, apples_caught
     hunger_level = 100
     apples_caught = 0
 
+#Screen for game over
 def show_game_over_screen():
     title_font = pygame.font.SysFont("Bauhaus 93", 70)
     button_font = pygame.font.SysFont("Bauhaus 93", 40)
@@ -294,7 +294,7 @@ def main_menu():
 
     run = True
     button_radius = 50
-    show_main_menu = True  # Initialize to show the main menu
+    show_main_menu = True  
 
     while run:
         WIN.blit(BG, (0, 0))
@@ -314,7 +314,7 @@ def main_menu():
             WIN.blit(play_label, (WIDTH // 2 - play_label.get_width() // 2, 355))
             WIN.blit(exit_label, (WIDTH // 2 - exit_label.get_width() // 2, 430))
 
-            draw_hunger_bar(100)  # Pass the initial hunger level
+            draw_hunger_bar(100) 
             pygame.display.update()
 
             for event in pygame.event.get():
@@ -324,13 +324,13 @@ def main_menu():
                     if play_button.collidepoint(event.pos):
                         show_main_menu, show_game = show_another_tab(100)  # Switch to the other tab
                         if show_game:
-                            main_game()  # Call the main_game function
+                            main_game()  
                     elif exit_button.collidepoint(event.pos):
                         run = False
         else:
             show_main_menu, show_game = show_another_tab(100)
             if show_game:
-                main_game()  # Call the main_game function
+                main_game()
 
     pygame.quit()
 
