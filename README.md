@@ -1,10 +1,15 @@
 Advance Computer Programming Final Project
+
 BSIT - 2101
 
 Members:
+
 Camacho, John Earl Noel M.
+
 DeOcampo, Ariel N.
+
 Magsino, Jude Laurence
+
 Majaba, Errol D.
 
 
