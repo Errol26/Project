@@ -255,8 +255,8 @@ def reset_game():
 
 #Screen for game over
 def show_game_over_screen():
-    title_font = pygame.font.SysFont("Bauhaus 93", 70)
-    button_font = pygame.font.SysFont("Bauhaus 93", 40)
+    title_font = pygame.font.SysFont("Arial Black 93", 70)
+    button_font = pygame.font.SysFont("Arial Black 93", 40)
 
     run=True
     while run:
@@ -289,8 +289,8 @@ def show_game_over_screen():
 
 
 def main_menu():
-    title_font = pygame.font.SysFont("Bauhaus 93", 70)
-    button_font = pygame.font.SysFont("Bauhaus 93", 40)
+    title_font = pygame.font.SysFont("Arial Black Bold 93", 70)
+    button_font = pygame.font.SysFont("Arial Black Bold 93", 40)
 
     run = True
     button_radius = 50
