@@ -6,6 +6,8 @@ BSIT - 2101
 Members:
 
 Camacho, John Earl Noel M.
+![368103564_894290595374312_8153321717942049562_n](https://github.com/Errol26/Project/assets/153089453/7dc62bbb-36c4-4ecc-998a-a41a61ba7614)
+
 
 DeOcampo, Ariel N.
 
