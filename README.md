@@ -10,14 +10,23 @@ Video Presentation:
 
 
 
-Game Title: Apple in the Basket
+Game Title: 
+
+- Apple in the Basket
 
 Description:
-  "Apple in the Basket" is a bright and entertaining friendly game for kids that combines eye coordination and skills. Players strive to grab as many apples as possible in the scenic       orchards beneath the apple tree, giving a fun-filled challenge that kids will appreciate.
+- "Apple in the Basket" is a bright and entertaining friendly game for kids that combines eye coordination and skills. Players strive to grab as many apples as possible in the scenic       orchards beneath the apple tree, giving a fun-filled challenge that kids will appreciate.
 
 
 Instructions:
-  Dont let the hunger bar rich at the limit or else it will be game over for you. To play the game, the user must first click the start button to proceed to another tab to select an        apple.  tree. After clicking the apple button, the game will take the player to its game, where the player must place the amount of apples to catch in the light blue text field at the    left side's bottom, then after entering the total. To catch an apple, hit enter. All of the apples will fall, and the player must catch one of them. The number of apples caught depends   on the user. After capturing all of the apples, the player must click the EAT button at the right side bottom to raise the HUNGER meter at the top left side.
+- Dont let the hunger bar rich at the limit or else it will be game over for you. To play the game. 
+- The user must first click the start button to proceed to another tab to select an apple tree. 
+- After clicking the apple button, the game will take the player to its game
+- Where the player must place the amount of apples to catch in the light blue text field at the left side's bottom 
+- Then after entering the total, To catch an apple hit enter.
+- All of the apples will fall, and the player must catch one of them.
+- The number of apples caught depends   on the user, After capturing all of the apples.
+- The player must click the EAT button at the right side bottom to raise the HUNGER meter at the top left side.
 
 
 Screenshots:
@@ -28,10 +37,10 @@ Screenshots:
 
 Members:
 
-  Camacho, John Earl Noel M.
+- Camacho, John Earl Noel M.
 
-  DeOcampo, Ariel N.
+- DeOcampo, Ariel N.
 
-  Magsino, Jude Laurence
+- Magsino, Jude Laurence
 
-  Majaba, Errol D.
+- Majaba, Errol D.
