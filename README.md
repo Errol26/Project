@@ -5,12 +5,21 @@
 ## Members:
 
 - Camacho, John Earl Noel M.
+  (Contribution: 25%)
 
 - DeOcampo, Ariel N.
+  (Contribution: 25%)
 
 - Magsino, Jude Laurence
+  (Contribution: 25%)
 
 - Majaba, Errol D.
+  (Contribution: 25%)
+
+#
+## Table of Contents
+- [Video Presentation](#videopresentation) 
+
 
 
 #
@@ -47,3 +56,22 @@
   ![Screenshot 2023-12-06 213845](https://github.com/Errol26/Project/assets/153089453/e2567ca0-8697-4ec4-b349-93564cade0cc)
   ![Screenshot 2023-12-06 213855](https://github.com/Errol26/Project/assets/153089453/b7cdf98f-bd0a-48d2-960c-d95b4a3f4640)
   ![Screenshot 2023-12-06 222319](https://github.com/Errol26/Project/assets/153089453/6ade4807-bf20-469a-9158-e4c402b24f93)
+
+#
+## Self Assessment
+The team has recently conducted a thorough self-assessment of our latest project, "Apple in the Basket," evaluating its performance across different criteria. Here is an overview of the ratings:
+
+Code Reusability: 3
+
+Maintainability: 3
+
+Scalability: 2
+
+Execution: 3
+
+Originality: 3
+
+Overall Impression: 3
+
+
+These ratings reflect our assessment of the project's performance, and we believe they accurately represent the grades for our completed project. Thank youu!!!!
