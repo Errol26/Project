@@ -13,7 +13,7 @@ Magsino, Jude Laurence
 
 Majaba, Errol D.
 
-Link for Video Presentation:
+Video Presentation:
 
 https://drive.google.com/file/d/1U5W0QTdDvIQxdldyaXMH6zSvRLJrpD7W/view?usp=sharing
 
