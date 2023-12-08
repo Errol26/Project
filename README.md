@@ -26,13 +26,13 @@
 
 
 #
-## Video Presentation:
+## VideoPresentation:
 
 - https://drive.google.com/file/d/1U5W0QTdDvIQxdldyaXMH6zSvRLJrpD7W/view?usp=sharing
 
 
 #
-## Game Title: 
+## GameTitle: 
 
 - APPLE IN THE BASKET
 
@@ -61,7 +61,7 @@
   ![Screenshot 2023-12-06 222319](https://github.com/Errol26/Project/assets/153089453/6ade4807-bf20-469a-9158-e4c402b24f93)
 
 #
-## Self Assessment
+## SelfAssessment
 The team has recently conducted a thorough self-assessment of our latest project, "Apple in the Basket," evaluating its performance across different criteria. Here is an overview of the ratings:
 
 Code Reusability: 3
