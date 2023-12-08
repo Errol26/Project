@@ -22,7 +22,8 @@
 - [Game Title](#GameTitle)
 - [Description](#Description) 
 - [Instructions](#Instructions) 
-
+- [Screenshots](#Screenshots)
+- [Self Assessment](#SelfAssessment) 
 
 
 #
