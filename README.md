@@ -1,6 +1,17 @@
 # APPLE IN THE BASKET
 - Final Project
 
+#
+## Members:
+
+- Camacho, John Earl Noel M.
+
+- DeOcampo, Ariel N.
+
+- Magsino, Jude Laurence
+
+- Majaba, Errol D.
+
 
 #
 ## Video Presentation:
@@ -36,14 +47,3 @@
   ![Screenshot 2023-12-06 213845](https://github.com/Errol26/Project/assets/153089453/e2567ca0-8697-4ec4-b349-93564cade0cc)
   ![Screenshot 2023-12-06 213855](https://github.com/Errol26/Project/assets/153089453/b7cdf98f-bd0a-48d2-960c-d95b4a3f4640)
   ![Screenshot 2023-12-06 222319](https://github.com/Errol26/Project/assets/153089453/6ade4807-bf20-469a-9158-e4c402b24f93)
-
-#
-## Members:
-
-- Camacho, John Earl Noel M.
-
-- DeOcampo, Ariel N.
-
-- Magsino, Jude Laurence
-
-- Majaba, Errol D.
