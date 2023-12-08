@@ -17,9 +17,11 @@
   (Contribution: 25%)
 
 #
-## Table of Contents
+## Table of Contents=
+- [Video Presentation](#VideoPresentation)
+- [Game Title](#GameTitle)
+- [Description](#Description) 
 - [Instructions](#Instructions) 
-- [Video Presentation](#VideoPresentation) 
 
 
 
