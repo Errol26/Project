@@ -18,6 +18,7 @@
 
 #
 ## Table of Contents
+- [Instructions](#Instructions) 
 - [Video Presentation](#VideoPresentation) 
 
 
