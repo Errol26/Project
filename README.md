@@ -1,6 +1,6 @@
-Advance Computer Programming Final Project
+# APPLE IN THE BASKET
+- Final Project
 
-BSIT - 2101
 
 #
 ## Video Presentation:
@@ -11,7 +11,7 @@ BSIT - 2101
 #
 ## Game Title: 
 
-- Apple in the Basket
+- APPLE IN THE BASKET
 
 #
 ## Description:
