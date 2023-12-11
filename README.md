@@ -11,7 +11,7 @@
 #
 ## Table of Contents
 - [🎥Video Presentation](#video-presentation)
-- [⚙️Prerequisites](#prerequisites)
+- [ ⚙️Prerequisites](#prerequisites)
 - [🛠️Installation](#Installation)
 - [👀Game Title](#GameTitle)
 - [✨Description](#Description) 
