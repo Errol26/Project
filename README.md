@@ -30,13 +30,13 @@
 </p>
 
 
-### ⚙️Prerequisites:
+### ⚙️Prerequisites
 <a name="prerequisites"></a>
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website:     
   https://www.python.org/downloads/
 
 
-### 🛠️Installation:
+### 🛠️Installation
 <a name="installation"></a>
 - First you need to install the pygame in the Command Prompt (CMD) with the code "pip install game" and wait it to complete
 - If pip is not installed, follow the instructions on the official website: https://pip.pypa.io/en/stable/installation/
