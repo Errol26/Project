@@ -125,7 +125,7 @@ These ratings reflect our assessment of the project's performance, and we believ
 
 
 #
-## 🤵 Members:
+## 🤵 Meet the Team:
 
 <div align="center">
   <img src="https://github.com/Errol26/Project/assets/153089453/7d0681d1-8a43-4a33-8834-189118c85914" alt="John Earl Noel M. Camacho" 
