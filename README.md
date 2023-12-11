@@ -10,7 +10,7 @@
 
 #
 ## Table of Contents
-- [🎥Video Presentation](#VideoPresentation)
+- [🎥Video Presentation](#video-presentation)
 - [⚙️Prerequisites](#Prerequisites)
 - [🛠️Installation](#Installation)
 - [👀Game Title](#GameTitle)
