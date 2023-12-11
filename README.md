@@ -11,31 +11,31 @@
 #
 ## Table of Contents
 - [🎥Video Presentation](#VideoPresentation)
-- [⚙️ Prerequisites](#Prerequisites)
-- [🛠️ Installation](#Installation)
-- [👀 Game Title](#GameTitle)
-- [✨ Description](#Description) 
-- [📋 Instructions](#Instructions) 
-- [🎮 Game Preview](#GamePreview)
-- [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
+- [⚙️Prerequisites](#Prerequisites)
+- [🛠️Installation](#Installation)
+- [👀Game Title](#GameTitle)
+- [✨Description](#Description) 
+- [📋Instructions](#Instructions) 
+- [🎮Game Preview](#GamePreview)
+- [🌏Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [📊Contributions and Self Assessment](#ContributionsandSelfAssessment)
 - [🤵Meet The Team](#MeetTheTeam)
 
 
 
 #
-## 🎥 VideoPresentation:
+## 🎥VideoPresentation:
 
 -  <a href="https://drive.google.com/file/d/1U5W0QTdDvIQxdldyaXMH6zSvRLJrpD7W/view?usp=sharing" target="_blank">Apple In The Basket Video Presentation</a>
 </p>
 
 #
-## ⚙️ Prerequisites
+## ⚙️Prerequisites
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website:     
   https://www.python.org/downloads/
 
 #
-## 🛠️ Installation
+## 🛠️Installation
 - First you need to install the pygame in the Command Prompt (CMD) with the code "pip install game" and wait it to complete
 - If pip is not installed, follow the instructions on the official website: https://pip.pypa.io/en/stable/installation/
 - Ensure you have the latest version of pip by running it in the command prompt (CMD) with the code "python -m pip install --upgrade pip" 
@@ -43,17 +43,17 @@
 
 
 #
-## 👀 GameTitle: 
+## 👀GameTitle: 
 
 - APPLE IN THE BASKET
 
 #
-## ✨ Description:
+## ✨Description:
 - "Apple in the Basket" is a bright and entertaining friendly game for kids that combines eye coordination and skills. Players strive to grab as many apples as possible in the scenic       orchards beneath the apple tree, giving a fun-filled challenge that kids will appreciate.
 
 
 #
-## 📋 Instructions:
+## 📋Instructions:
 - Dont let the hunger bar rich at the limit or else it will be game over for you. To play the game. 
 - The user must first click the start button to proceed to another tab to select an apple tree. 
 - After clicking the apple button, the game will take the player to its game
@@ -65,14 +65,14 @@
 
 
 #
-## 🎮 Game Preview:
+## 🎮Game Preview:
   ![Screenshot 2023-12-06 213838](https://github.com/Errol26/Project/assets/153089453/b8f7f0db-57f2-40da-9192-ad6132045de1)
   ![Screenshot 2023-12-06 213845](https://github.com/Errol26/Project/assets/153089453/e2567ca0-8697-4ec4-b349-93564cade0cc)
   ![Screenshot 2023-12-06 213855](https://github.com/Errol26/Project/assets/153089453/b7cdf98f-bd0a-48d2-960c-d95b4a3f4640)
   ![Screenshot 2023-12-06 222319](https://github.com/Errol26/Project/assets/153089453/6ade4807-bf20-469a-9158-e4c402b24f93)
 
 #
-## 🌏 Sustainable Development Goals (SDGs)
+## 🌏Sustainable Development Goals (SDGs)
 <div align="center">
   <img src="https://github.com/Errol26/Project/assets/153089453/1c513148-38e7-4a84-bf9e-14f463b0f08e" alt="Screenshot" />
 </div>
@@ -88,7 +88,7 @@ The game could serve as a medium for incorporating innovative and interactive el
 </p>
 
 #
-## 📊 Contributions and Self Assessment
+## 📊Contributions and Self Assessment
 <strong>Contributions</strong>
 
 <strong>Meet the Team with their Role and Contributions in this Project.</strong>
@@ -125,7 +125,7 @@ These ratings reflect our assessment of the project's performance, and we believ
 
 
 #
-## 🤵 Meet The Team:
+## 🤵Meet The Team:
 
 <div align="center">
   <img src="https://github.com/Errol26/Project/assets/153089453/7d0681d1-8a43-4a33-8834-189118c85914" alt="John Earl Noel M. Camacho" 
