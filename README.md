@@ -19,6 +19,8 @@
 #
 ## Table of Contents
 - [Video Presentation](#VideoPresentation)
+- [Requirments](#Requirments)
+- [Installation](#Installation)
 - [Game Title](#GameTitle)
 - [Description](#Description) 
 - [Instructions](#Instructions) 
@@ -31,6 +33,18 @@
 ## VideoPresentation:
 
 - https://drive.google.com/file/d/1U5W0QTdDvIQxdldyaXMH6zSvRLJrpD7W/view?usp=sharing
+
+#
+## Requirments
+- Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website:     
+  https://www.python.org/downloads/
+
+#
+## Installation
+- First you need to install the pygame in the Command prompt with the code "pip install game"
+- If pip is not installed, follow the instructions on the official website: https://pip.pypa.io/en/stable/installation/
+- Ensure you have the latest version of pip by running with the code "python -m pip install --upgrade pip"
+- Then Enjoy the Game hope u like it!!
 
 
 #
