@@ -11,7 +11,7 @@
 #
 ## Table of Contents
 - [🎥Video Presentation](#video-presentation)
-- [ ⚙️Prerequisites](#prerequisites)
+- [⚙️Prerequisites](#prerequisites)
 - [🛠️Installation](#Installation)
 - [👀Game Title](#GameTitle)
 - [✨Description](#Description) 
@@ -31,6 +31,7 @@
 
 #
 ## ⚙️Prerequisites:
+<a name="prerequisites"></a>
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website:     
   https://www.python.org/downloads/
 
