@@ -127,10 +127,30 @@ These ratings reflect our assessment of the project's performance, and we believ
 #
 ## 🤵 Members:
 
-- Camacho, John Earl Noel M.
+<div align="center">
+  <img src="https://github.com/Errol26/Project/assets/153089453/7d0681d1-8a43-4a33-8834-189118c85914" alt="John Earl Noel M. Camacho" 
+   width="250" height="250" />
+  <p style="font-size: 18px;">Camacho, John Earl Noel M.</p>
+  <p style="font-size: 16px;">22-05404</p>
+</div>
 
-- DeOcampo, Ariel N.
+<div align="center">
+  <img src="https://github.com/Errol26/Project/assets/153089453/117a0d65-06a1-4fca-964a-f7e66aa991b9" alt="Ariel N. DeOcampo" 
+   width="250" height="250" />
+  <p style="font-size: 18px;">DeOcampo, Ariel N.</p>
+  <p style="font-size: 16px;">22-02588</p>
+</div>
 
-- Magsino, Jude Laurence
+<div align="center">
+  <img src="https://github.com/Errol26/Project/assets/153089453/fbe33955-c675-4232-b7af-a4f5eac36a4b" alt="Jude Laurence Magsino" 
+   width="250" height="250" />
+  <p style="font-size: 18px;">Magsino, Jude Laurence</p>
+  <p style="font-size: 16px;">22-05741</p>
+</div>
 
-- Majaba, Errol D.
+<div align="center">
+  <img src="https://github.com/Errol26/Project/assets/153089453/dcfb855c-7ff4-4e03-bdca-6076031ed78b" alt="Errol D. Majaba" 
+   width="250" height="250" />
+  <p style="font-size: 18px;">Majaba, Errol D.</p>
+  <p style="font-size: 16px;">22-04101</p>
+</div>
