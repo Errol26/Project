@@ -18,7 +18,7 @@
 - [📋Instructions](#Instructions) 
 - [🎮Game Preview](#GamePreview)
 - [🌏Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
-- [📊Contributions and Self Assessment](#contributions-and-selfassessment)
+- [📊Contributions and Self Assessment](#contributions-and-self-assessment)
 - [🤵Meet The Team](#meet-the-team)
 
 
