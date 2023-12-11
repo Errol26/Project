@@ -41,9 +41,9 @@
 
 #
 ## Installation
-- First you need to install the pygame in the Command prompt with the code "pip install game"
+- First you need to install the pygame in the Command Prompt (CMD) with the code "pip install game" and wait it to complete
 - If pip is not installed, follow the instructions on the official website: https://pip.pypa.io/en/stable/installation/
-- Ensure you have the latest version of pip by running with the code "python -m pip install --upgrade pip"
+- Ensure you have the latest version of pip by running it in the command prompt (CMD) with the code "python -m pip install --upgrade pip" 
 - Then Enjoy the Game hope u like it!!
 
 
