@@ -29,8 +29,8 @@
 -  <a href="https://drive.google.com/file/d/1U5W0QTdDvIQxdldyaXMH6zSvRLJrpD7W/view?usp=sharing" target="_blank">Apple In The Basket Video Presentation</a>
 </p>
 
-#
-## ⚙️Prerequisites:
+
+### ⚙️Prerequisites
 <a name="prerequisites"></a>
 - Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website:     
   https://www.python.org/downloads/
