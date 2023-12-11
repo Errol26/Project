@@ -17,6 +17,7 @@
 - [✨ Description](#Description) 
 - [📋 Instructions](#Instructions) 
 - [🎮 Game Preview](#GamePreview)
+- [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [📊Contributions and Self Assessment](#ContributionsandSelfAssessment)
 - [🤵Meet The Team](#MeetTheTeam)
 
@@ -69,6 +70,22 @@
   ![Screenshot 2023-12-06 213845](https://github.com/Errol26/Project/assets/153089453/e2567ca0-8697-4ec4-b349-93564cade0cc)
   ![Screenshot 2023-12-06 213855](https://github.com/Errol26/Project/assets/153089453/b7cdf98f-bd0a-48d2-960c-d95b4a3f4640)
   ![Screenshot 2023-12-06 222319](https://github.com/Errol26/Project/assets/153089453/6ade4807-bf20-469a-9158-e4c402b24f93)
+
+#
+## 🌏 Sustainable Development Goals (SDGs)
+<div align="center">
+  <img src="https://github.com/Errol26/Project/assets/153089453/1c513148-38e7-4a84-bf9e-14f463b0f08e" alt="Screenshot" />
+</div>
+
+- **SDG 2: Zero Hunger 🌾**
+<p align="justify">
+The game serves as a tool for raising awareness and promoting positive attitudes toward nutritious foods, specifically apples. By incorporating educational elements about the nutritional benefits of apples, the game contributes to knowledge dissemination, encouraging children to view fruits as a healthy and accessible food source
+</p>
+
+- **SDG 9: Industry, Innovation and Infrastructure 🏭**
+<p align="justify">
+The game could serve as a medium for incorporating innovative and interactive elements that promote awareness of technological advancements related to the agricultural industry, including fruit cultivation and distribution.
+</p>
 
 #
 ## 📊 Contributions and Self Assessment
